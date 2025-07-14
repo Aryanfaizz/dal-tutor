@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dal Tutor</string>
+    <string name="welcome">Welcome!</string>
+    <string-array name="topics">
+        <item
+            >Computer Science</item>
+        <item
+            >Mathematics</item>
+        <item
+            >Accounting</item>
+        <item
+            >Economics</item>
+        <item
+            >Philosophy</item>
+        <item
+            >Physics</item>
+    </string-array>
+    <string name="topic_prompt">Select Topic</string>
+</resources>
